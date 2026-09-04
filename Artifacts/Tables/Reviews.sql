@@ -1,0 +1,9 @@
+CREATE TABLE Reviews
+(
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    UserId INT NOT NULL,
+    CarId INT NOT NULL,
+    Rating INT NOT NULL,
+    Comment NVARCHAR(500) NULL,
+    CreatedAt DATETIME2 NOT NULL DEFAULT GETDATE()
+);

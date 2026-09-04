@@ -1,0 +1,14 @@
+CREATE TABLE Cars
+(
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    BrandId INT NOT NULL,
+    CategoryId INT NOT NULL,
+    Model NVARCHAR(100) NOT NULL,
+    Year INT NOT NULL,
+    PricePerDay DECIMAL(10,2) NOT NULL,
+    Transmission NVARCHAR(20) NOT NULL,
+    FuelType NVARCHAR(20) NOT NULL,
+    Seats INT NOT NULL,
+    ImageUrl NVARCHAR(500) NULL,
+    IsAvailable BIT NOT NULL DEFAULT 1
+);
