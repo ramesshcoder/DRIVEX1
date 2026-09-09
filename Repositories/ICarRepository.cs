@@ -1,6 +1,8 @@
-﻿namespace Drivex.Repositories
+﻿using Drivex.Domain.Cars;
+
+namespace Drivex.Repositories.Cars;
+
+public interface ICarRepository
 {
-    public class ICarRepository
-    {
-    }
+    Task<List<Car>> GetAllCarsAsync();
 }

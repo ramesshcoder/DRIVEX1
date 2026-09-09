@@ -3,16 +3,56 @@
   "WorkspaceRootPath": "E:\\Prpojects1.0\\Drivex\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A884804C-E79E-F2F3-6AF1-3D4C5A7B5709}|Drivex.csproj|e:\\prpojects1.0\\drivex\\drivex.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{A884804C-E79E-F2F3-6AF1-3D4C5A7B5709}|Drivex.csproj|solutionrelative:drivex.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{A884804C-E79E-F2F3-6AF1-3D4C5A7B5709}|Drivex.csproj|e:\\prpojects1.0\\drivex\\service\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A884804C-E79E-F2F3-6AF1-3D4C5A7B5709}|Drivex.csproj|solutionrelative:service\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A884804C-E79E-F2F3-6AF1-3D4C5A7B5709}|Drivex.csproj|e:\\prpojects1.0\\drivex\\domain\\cars\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A884804C-E79E-F2F3-6AF1-3D4C5A7B5709}|Drivex.csproj|solutionrelative:domain\\cars\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A884804C-E79E-F2F3-6AF1-3D4C5A7B5709}|Drivex.csproj|e:\\prpojects1.0\\drivex\\dtos\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A884804C-E79E-F2F3-6AF1-3D4C5A7B5709}|Drivex.csproj|solutionrelative:dtos\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A884804C-E79E-F2F3-6AF1-3D4C5A7B5709}|Drivex.csproj|e:\\prpojects1.0\\drivex\\service\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A884804C-E79E-F2F3-6AF1-3D4C5A7B5709}|Drivex.csproj|solutionrelative:service\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A884804C-E79E-F2F3-6AF1-3D4C5A7B5709}|Drivex.csproj|e:\\prpojects1.0\\drivex\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A884804C-E79E-F2F3-6AF1-3D4C5A7B5709}|Drivex.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A884804C-E79E-F2F3-6AF1-3D4C5A7B5709}|Drivex.csproj|e:\\prpojects1.0\\drivex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A884804C-E79E-F2F3-6AF1-3D4C5A7B5709}|Drivex.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A884804C-E79E-F2F3-6AF1-3D4C5A7B5709}|Drivex.csproj|e:\\prpojects1.0\\drivex\\repositories\\carsrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A884804C-E79E-F2F3-6AF1-3D4C5A7B5709}|Drivex.csproj|solutionrelative:repositories\\carsrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A884804C-E79E-F2F3-6AF1-3D4C5A7B5709}|Drivex.csproj|e:\\prpojects1.0\\drivex\\repositories\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A884804C-E79E-F2F3-6AF1-3D4C5A7B5709}|Drivex.csproj|solutionrelative:repositories\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A884804C-E79E-F2F3-6AF1-3D4C5A7B5709}|Drivex.csproj|e:\\prpojects1.0\\drivex\\repositories\\base\\basesqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A884804C-E79E-F2F3-6AF1-3D4C5A7B5709}|Drivex.csproj|solutionrelative:repositories\\base\\basesqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A884804C-E79E-F2F3-6AF1-3D4C5A7B5709}|Drivex.csproj|e:\\prpojects1.0\\drivex\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A884804C-E79E-F2F3-6AF1-3D4C5A7B5709}|Drivex.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A884804C-E79E-F2F3-6AF1-3D4C5A7B5709}|Drivex.csproj|e:\\prpojects1.0\\drivex\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A884804C-E79E-F2F3-6AF1-3D4C5A7B5709}|Drivex.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A884804C-E79E-F2F3-6AF1-3D4C5A7B5709}|Drivex.csproj|e:\\prpojects1.0\\drivex\\drivex.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A884804C-E79E-F2F3-6AF1-3D4C5A7B5709}|Drivex.csproj|solutionrelative:drivex.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A884804C-E79E-F2F3-6AF1-3D4C5A7B5709}|Drivex.csproj|e:\\prpojects1.0\\drivex\\drivex.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A884804C-E79E-F2F3-6AF1-3D4C5A7B5709}|Drivex.csproj|solutionrelative:drivex.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +62,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "E:\\Prpojects1.0\\Drivex\\Service\\CarService.cs",
+              "RelativeDocumentMoniker": "Service\\CarService.cs",
+              "ToolTip": "E:\\Prpojects1.0\\Drivex\\Service\\CarService.cs",
+              "RelativeToolTip": "Service\\CarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T17:51:22.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "E:\\Prpojects1.0\\Drivex\\Service\\ICarService.cs",
+              "RelativeDocumentMoniker": "Service\\ICarService.cs",
+              "ToolTip": "E:\\Prpojects1.0\\Drivex\\Service\\ICarService.cs",
+              "RelativeToolTip": "Service\\ICarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T17:49:20.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\Prpojects1.0\\Drivex\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "E:\\Prpojects1.0\\Drivex\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-09T17:32:07.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": ".gitignore",
+              "DocumentMoniker": "E:\\Prpojects1.0\\Drivex\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "E:\\Prpojects1.0\\Drivex\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-06T12:16:12.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarsRepositories.cs",
+              "DocumentMoniker": "E:\\Prpojects1.0\\Drivex\\Repositories\\CarsRepositories.cs",
+              "RelativeDocumentMoniker": "Repositories\\CarsRepositories.cs",
+              "ToolTip": "E:\\Prpojects1.0\\Drivex\\Repositories\\CarsRepositories.cs",
+              "RelativeToolTip": "Repositories\\CarsRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T11:39:03.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cars.cs",
+              "DocumentMoniker": "E:\\Prpojects1.0\\Drivex\\DTOs\\Cars.cs",
+              "RelativeDocumentMoniker": "DTOs\\Cars.cs",
+              "ToolTip": "E:\\Prpojects1.0\\Drivex\\DTOs\\Cars.cs",
+              "RelativeToolTip": "DTOs\\Cars.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T11:34:23.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "E:\\Prpojects1.0\\Drivex\\Domain\\Cars\\Car.cs",
+              "RelativeDocumentMoniker": "Domain\\Cars\\Car.cs",
+              "ToolTip": "E:\\Prpojects1.0\\Drivex\\Domain\\Cars\\Car.cs",
+              "RelativeToolTip": "Domain\\Cars\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T11:50:54.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseSqlRepository.cs",
+              "DocumentMoniker": "E:\\Prpojects1.0\\Drivex\\Repositories\\Base\\BaseSqlRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Base\\BaseSqlRepository.cs",
+              "ToolTip": "E:\\Prpojects1.0\\Drivex\\Repositories\\Base\\BaseSqlRepository.cs",
+              "RelativeToolTip": "Repositories\\Base\\BaseSqlRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T17:33:08.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Prpojects1.0\\Drivex\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -39,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
               "Title": "Drivex.http",
               "DocumentMoniker": "E:\\Prpojects1.0\\Drivex\\Drivex.http",
               "RelativeDocumentMoniker": "Drivex.http",
@@ -47,20 +191,45 @@
               "RelativeToolTip": "Drivex.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-09-01T16:36:55.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-01T16:36:55.453Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\Prpojects1.0\\Drivex\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "E:\\Prpojects1.0\\Drivex\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-01T16:36:47.462Z"
+              "WhenOpened": "2026-09-01T16:36:47.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "E:\\Prpojects1.0\\Drivex\\Repositories\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICarRepository.cs",
+              "ToolTip": "E:\\Prpojects1.0\\Drivex\\Repositories\\ICarRepository.cs",
+              "RelativeToolTip": "Repositories\\ICarRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T11:58:38.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Drivex.csproj",
+              "DocumentMoniker": "E:\\Prpojects1.0\\Drivex\\Drivex.csproj",
+              "RelativeDocumentMoniker": "Drivex.csproj",
+              "ToolTip": "E:\\Prpojects1.0\\Drivex\\Drivex.csproj",
+              "RelativeToolTip": "Drivex.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-06T11:37:58.266Z"
             }
           ]
         }
