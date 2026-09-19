@@ -1,4 +1,5 @@
-﻿using Drivex.DTOs.Cars;
+using Drivex.Domain.Cars;
+using Drivex.DTOs.Cars;
 using Drivex.Repositories.Cars;
 
 namespace Drivex.Services.Cars;
@@ -12,23 +13,14 @@ public class CarService : ICarService
         _carRepository = carRepository;
     }
 
-    public async Task<List<CarDto>> GetAllCarsAsync()
+    public  Task<List<Car>> GetAllCarsAsync(CancellationToken cancellationToken = default)
     {
-        var cars = await _carRepository.GetAllCarsAsync();
+        return  _carRepository.GetAllCarsAsync(cancellationToken);
+    }
 
-        return cars.Select(car => new CarDto
-        {
-            Id = car.Id,
-            Brand = car.BrandId.ToString(),
-            Model = car.Model,
-            Category = car.CategoryId.ToString(),
-            Year = car.Year,
-            PricePerDay = car.PricePerDay,
-            Transmission = car.Transmission,
-            FuelType = car.FuelType,
-            Seats = car.Seats,
-            ImageUrl = car.ImageUrl,
-            IsAvailable = car.IsAvailable
-        }).ToList();
+    public Task<Car?> GetCarByIdAsync(int id, CancellationToken cancellationToken = default)
+    {
+        return _carRepository.GetCarByIdAsync(id, cancellationToken);
+
     }
 }

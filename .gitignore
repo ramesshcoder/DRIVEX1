@@ -1,3 +1,7 @@
 .vs/
 obj/
 bin/
+node_modules/
+.angular/
+dist/
+*.user
