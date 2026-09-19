@@ -1,0 +1,8 @@
+IF DB_ID(N'Drivex') IS NULL
+BEGIN
+    CREATE DATABASE Drivex;
+END;
+GO
+
+USE Drivex;
+GO

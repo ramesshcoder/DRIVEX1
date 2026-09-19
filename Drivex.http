@@ -1,6 +1,11 @@
 @Drivex_HostAddress = http://localhost:5101
 
-GET {{Drivex_HostAddress}}/weatherforecast/
+GET {{Drivex_HostAddress}}/api/cars
+Accept: application/json
+
+###
+
+GET {{Drivex_HostAddress}}/api/cars/1
 Accept: application/json
 
 ###
