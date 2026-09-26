@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects1.0\\Drivex\\backend\\Drivex\\Drivex.csproj": {}
+    "E:\\Projects1.0\\Drivex backend\\Drivex.csproj": {}
   },
   "projects": {
-    "E:\\Projects1.0\\Drivex\\backend\\Drivex\\Drivex.csproj": {
+    "E:\\Projects1.0\\Drivex backend\\Drivex.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects1.0\\Drivex\\backend\\Drivex\\Drivex.csproj",
+        "projectUniqueName": "E:\\Projects1.0\\Drivex backend\\Drivex.csproj",
         "projectName": "Drivex",
-        "projectPath": "E:\\Projects1.0\\Drivex\\backend\\Drivex\\Drivex.csproj",
+        "projectPath": "E:\\Projects1.0\\Drivex backend\\Drivex.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects1.0\\Drivex\\backend\\Drivex\\obj\\",
+        "outputPath": "E:\\Projects1.0\\Drivex backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -55,6 +55,14 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[16.2.0, )"
+            },
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[10.0.12, )"
             },
             "Microsoft.Data.SqlClient": {
               "target": "Package",

@@ -18,7 +18,8 @@ CREATE TABLE dbo.Users
     Email NVARCHAR(150) NOT NULL,
     PasswordHash NVARCHAR(255) NOT NULL,
     Phone NVARCHAR(20) NULL,
-    Role NVARCHAR(20) NOT NULL
+    Role NVARCHAR(20) NOT NULL,
+    CONSTRAINT UQ_Users_Email UNIQUE (Email)
 );
 
 CREATE TABLE dbo.Locations

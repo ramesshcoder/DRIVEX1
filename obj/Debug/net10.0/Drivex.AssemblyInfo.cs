@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Drivex")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a36decb1db517ffa229aa1620985f1797198202")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93d54268723d5a7eb5a28c2a98c388066f791178")]
 [assembly: System.Reflection.AssemblyProductAttribute("Drivex")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Drivex")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
